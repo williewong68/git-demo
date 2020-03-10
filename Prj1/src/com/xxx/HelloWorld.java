@@ -1,4 +1,4 @@
-package com.prj1;
+package com.xxx;
 
 public class HelloWorld {
 
